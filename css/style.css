@@ -609,6 +609,11 @@ form button.btn {
     align-items: center;
 }
 
+.Contact .text-center {
+    color: #fff;
+    font-size: 30px;
+}
+
 .me p {
     font-size: 20px;
 }
